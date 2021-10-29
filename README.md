@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name's Dmitry, i'm currently a student at Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State University.
+
+#### Current projects
+- 🧬 RNA-DNA interaction caller
+- 🧑‍💻 [ortho2align](https://github.com/dmitrymyl/ortho2align) &mdash; lncRNA ortholog discovery tool
