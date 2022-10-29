@@ -7,6 +7,7 @@ My name's Dmitry, i'm a PhD student at Gerlich lab, Institute of Molecular Biote
 - 🧑‍💻 NGS data analysis
 - 🧫 Nuclear architecture
 - 🐈 Pallas's cats
+- ☕ Coffee brewing
 
 ## Highlighted projects here
 - 🧬 [BaRDIC](https://github.com/dmitrymyl/BaRDIC) &mdash; <ins>B</ins>inomi<ins>a</ins>l <ins>R</ins>NA-<ins>D</ins>NA <ins>I</ins>nteraction <ins>C</ins>aller
