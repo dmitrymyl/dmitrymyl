@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name's Dmitry, i'm a PhD student at Gerlich lab, Institute of Molecular Biotechnology, Vienna BioCenter.
+My name's Dmitry, i'm a PhD student at Gerlich lab and Goloborodko lab, Institute of Molecular Biotechnology, Vienna BioCenter.
 
 ## My interests
 - 🧮 Statistics
